@@ -8,5 +8,5 @@ CTF Write-Ups are detailed explanations and step-by-step guides created by parti
 ## **2025**
 
 ## **2024**
-2024/8/23 - Easy Web Write Up
-2024/8/24 - SQL Inject Write Up
+* 2024/8/23 - Easy Web Write Up
+* 2024/8/24 - SQL Inject Write Up
