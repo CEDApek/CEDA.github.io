@@ -8,6 +8,7 @@ CTF Write-Ups are detailed explanations and step-by-step guides created by parti
 ## **2025**
 
 ## **2024**
+* 2024/9/5  - Scan Write Up <web>
 * 2024/8/29 - Flag403 Write Up <web>
 * 2024/8/25 - GitLeak Write Up <web>
 * 2024/8/24 - SQL Inject Write Up <web>
