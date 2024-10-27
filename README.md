@@ -8,8 +8,9 @@ CTF Write-Ups are detailed explanations and step-by-step guides created by parti
 ## **2025**
 
 ## **2024**
+* 2024/10/27 - The Cyber Jawara International 2024 <CTFcomp.>
 * 2024/10/20 - Easy Pentest Write Up <web>
-* 2024/10/15 - joined ZJUCTF 2024 <CTFchallenge>
+* 2024/10/15 - joined ZJUCTF 2024 <CTFcomp.>
 * 2024/10/10 - Dangerous Flask Write Up <web>
 * 2024/9/13 - War of tomcat Write Up <web>
 * 2024/9/11 - Php Include Write Up <web>
