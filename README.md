@@ -6,6 +6,7 @@ CTF Write-Ups are detailed explanations and step-by-step guides created by parti
 
 
 ## **2025**
+* 2025/1/29 - PICO all EASY Write Up <web>
 * 2025/1/25 - Mini PassGen (On Progress) ~ Project
 * 2025/1/13 - Network+ training (CompTIA) ~ prep.
 
