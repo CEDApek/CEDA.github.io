@@ -9,6 +9,7 @@ CTF Write-Ups are detailed explanations and step-by-step guides created by parti
 * 2025/2/14 - N0lly (Mini Network Mapper Agentic AI)
 
 ## **2025**
+* 2025/12/12 - Huawei & Zju Security Club Gathering
 * 2025/11/17 - ZJUCTF 2025 [ZJUCTF comp.]
 * 2025/10/8 - picoMini by CMU-Africa [CTF comp.]
 * 2025/9/7  - CV Update
